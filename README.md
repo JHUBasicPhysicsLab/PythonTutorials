@@ -23,7 +23,7 @@ and little guides. We recommend starting reading with the summary guide first.
    * [Creating a Data Frame](3%20Data%20Frames%20%26%20Pandas/3%20Creating%20a%20Data%20Frame.ipynb) from Python data instead of importing it
    * [Math in Pandas](3%20Data%20Frames%20%26%20Pandas/4%20Math%20%26%20Pandas.ipynb): mathematical & statistical operations on Data Frames
 4. [Plotting in Python](4%20Plotting)
-   * **[Quick Start Guide: Plotting](0%20Quick%20Start%20Guide%20-%20Plotting.ipynb)**
+   * **[Quick Start Guide: Plotting](4%20Plotting/0%20Quick%20Start%20Guide%20-%20Plotting.ipynb)**
    * [Simple Plot Example](4%20Plotting/1%20Simple%20Plot%20Example.ipynb): using a `plot()` command for the simplest plot of all
    * [Errorbar Plot Example](4%20Plotting/2%20Errorbar%20Plot%20Example.ipynb): using `errorbar()` command to create a plot with errorbars
    * [Formatting Guide](4%20Plotting/3%20Formatting%20Guide.ipynb): changing the look of the plot (colors, line style, and more!)
