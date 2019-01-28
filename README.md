@@ -17,7 +17,7 @@ If you're not familiar with a subject, we encourage you to start by reading the 
     
 2. [Basics of Python](2%20Python%20Basics)
     * **[Quick Start Guide: Python](2%20Python%20Basics/0%20Quick%20Start%20Guide%20-%20Python.ipynb)**
-    * **[Quick Start Guide: Python](2%20Python%20Basics/1%20Quick%20Start%20Guide%20-%20NumPy.ipynb)**: numerical tools in python
+    * **[Quick Start Guide: NumPy](2%20Python%20Basics/1%20Quick%20Start%20Guide%20-%20NumPy.ipynb)**: numerical tools in python
     * [String formatting](2%20Python%20Basics/2%20String%20Formatting.ipynb): formatting the output of the print statements
     * [Functions](2%20Python%20Basics/3%20Functions.ipynb): what do Python functions do, defining and customizing own functions
     * [Loops Tutorial](2%20Python%20Basics/4%20Loops.ipynb): for loops, applying the same function to many things at once
