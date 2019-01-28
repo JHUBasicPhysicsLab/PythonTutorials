@@ -1,7 +1,9 @@
 # Python Tutorials
 A repository to house Jupyter and Python tutorials for the Basic Physics Laboratory courses.
-The tutorials are arranged by subject. Each subject contains a summary guide for those unfamiliar with it, and many smaller examples 
-and little guides. We recommend starting reading with the summary guide first.
+
+The tutorials are arranged by subject, from python basics to data analysis with SciPy. Each subject folder contains a **Quick Start Guide** - a quick summary that will let you do most lab activities, and many smaller examples or more detailed explanations and guides.
+
+If you're not familiar with a subject, we encourage you to start by reading the **Quick Start Guides** first!
 
 ## Contents
 
@@ -37,5 +39,6 @@ and little guides. We recommend starting reading with the summary guide first.
    * [X-uncertainties](5%20Curve%20Fitting/4%20X-uncertainties.ipynb): accounting for both x- and y-uncertainties in model fitting
 6. Some extra neat [SciPy & SymPy tools](6%20SciPy%20%26%20SymPy%20Tools)
 
+### That's it!
 We hope we all have fun, and as always, ask us any questions! 
 We would love any feedback on these tutorials, and we will do our best to add any additional examples that may help!
