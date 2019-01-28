@@ -5,7 +5,7 @@ and little guides. We recommend starting reading with the summary guide first.
 
 ## Contents
 
-1. [Basics of Jupyter Notebooks](1%20Jupyter%20%26%20Notebook%20Basics) & this lab course
+1. [Basics of Jupyter Notebooks](1%20Jupyter%20Notebook%20Basics) & this lab course
 2. [Basics of Python](2%20Python%20Basics)
 3. Storing and Processing Raw Data: [Data Frames & Pandas](3%20Data%20Frames%20%26%20Pandas)
 4. [Plotting in Python](4%20Plotting)
