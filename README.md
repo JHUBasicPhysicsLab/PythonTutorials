@@ -17,8 +17,11 @@ If you're not familiar with a subject, we encourage you to start by reading the 
     
 2. [Basics of Python](2%20Python%20Basics)
     * **[Quick Start Guide: Python](2%20Python%20Basics/0%20Quick%20Start%20Guide%20-%20Python.ipynb)**
-    * [Functions](2%20Python%20Basics/1%20Functions.ipynb): what do Python functions do, defining and customizing own functions
+    * **[Quick Start Guide: NumPy](2%20Python%20Basics/1%20Quick%20Start%20Guide%20-%20NumPy.ipynb)**: numerical tools in python
     * [String formatting](2%20Python%20Basics/2%20String%20Formatting.ipynb): formatting the output of the print statements
+    * [Functions](2%20Python%20Basics/3%20Functions.ipynb): what do Python functions do, defining and customizing own functions
+    * [Loops Tutorial](2%20Python%20Basics/4%20Loops.ipynb): for loops, applying the same function to many things at once
+    * [If Else Tutorial](2%20Python%20Basics/5%20If%20Else%20Tutorial.ipynb): making decisions using Python
     
 3. Storing and Processing Raw Data: [Data Frames & Pandas](3%20Data%20Frames%20%26%20Pandas)
    * **[Quick Start Guide: Pandas](3%20Data%20Frames%20%26%20Pandas/0%20Quick%20Start%20Guide%20-%20Pandas.ipynb)**
@@ -41,8 +44,6 @@ If you're not familiar with a subject, we encourage you to start by reading the 
    * [Covariance Matrix](5%20Curve%20Fitting/2%20Covariance%20Matrix.ipynb): what does the covariance matrix really mean in the `curve_fit` output?
    * [Absolute Sigma](5%20Curve%20Fitting/3%20Absolute%20Sigma.ipynb): effect of setting `absolute_sigma` wrong in `curve_fit`
    * [X-uncertainties](5%20Curve%20Fitting/4%20X-uncertainties.ipynb): accounting for both x- and y-uncertainties in model fitting
-   
-6. Some extra neat [SciPy & SymPy tools](6%20SciPy%20%26%20SymPy%20Tools)
 
 ### That's it!
 We hope we all have fun, and as always, ask us any questions! 
