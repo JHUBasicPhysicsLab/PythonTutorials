@@ -14,7 +14,6 @@ If you're not familiar with a subject, we encourage you to start by reading the 
     * [Cell Formatting](1%20Jupyter%20Notebook%20Basics/3%20Cell%20Formatting.ipynb): writing and formatting text in markdown cells
     * [Images in Jupyter](1%20Jupyter%20Notebook%20Basics/4%20Images%20in%20Jupyter.ipynb): inserting an image in a markdown cell
     * [Equations](1%20Jupyter%20Notebook%20Basics/5%20Equations.ipynb): formatting mathematical equations with LaTeX *(optional)*
-    * 
     
 2. [Basics of Python](2%20Python%20Basics)
     * **[Quick Start Guide: Python](2%20Python%20Basics/0%20Quick%20Start%20Guide%20-%20Python.ipynb)**
@@ -24,6 +23,7 @@ If you're not familiar with a subject, we encourage you to start by reading the 
     * [Loops Tutorial](2%20Python%20Basics/4%20Loops.ipynb): for loops, applying the same function to many things at once
     * [If Else Tutorial](2%20Python%20Basics/5%20If%20Else%20Tutorial.ipynb): making decisions using Python
     * [Picking values from Lists and Arrays](2%20Python%20Basics/6%20Picking%20Values%20from%20Lists.ipynb)
+    
 3. Storing and Processing Raw Data: [Data Frames & Pandas](3%20Data%20Frames%20%26%20Pandas)
    * **[Quick Start Guide: Pandas](3%20Data%20Frames%20%26%20Pandas/0%20Quick%20Start%20Guide%20-%20Pandas.ipynb)**
    * [Loading a CSV](3%20Data%20Frames%20%26%20Pandas/1%20Loading%20CSV.ipynb): importing raw CSV data into Python using Pandas
