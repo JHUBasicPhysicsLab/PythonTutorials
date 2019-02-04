@@ -22,6 +22,7 @@ If you're not familiar with a subject, we encourage you to start by reading the 
     * [Functions](2%20Python%20Basics/3%20Functions.ipynb): what do Python functions do, defining and customizing own functions
     * [Loops Tutorial](2%20Python%20Basics/4%20Loops.ipynb): for loops, applying the same function to many things at once
     * [If Else Tutorial](2%20Python%20Basics/5%20If%20Else%20Tutorial.ipynb): making decisions using Python
+    * [Picking values from Lists and Arrays](2%20Python%20Basics/6%20Picking%20Values%20from%20Lists.ipynb)
     
 3. Storing and Processing Raw Data: [Data Frames & Pandas](3%20Data%20Frames%20%26%20Pandas)
    * **[Quick Start Guide: Pandas](3%20Data%20Frames%20%26%20Pandas/0%20Quick%20Start%20Guide%20-%20Pandas.ipynb)**
