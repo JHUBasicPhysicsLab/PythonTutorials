@@ -14,6 +14,7 @@ If you're not familiar with a subject, we encourage you to start by reading the 
     * [Cell Formatting](1%20Jupyter%20Notebook%20Basics/3%20Cell%20Formatting.ipynb): writing and formatting text in markdown cells
     * [Images in Jupyter](1%20Jupyter%20Notebook%20Basics/4%20Images%20in%20Jupyter.ipynb): inserting an image in a markdown cell
     * [Equations](1%20Jupyter%20Notebook%20Basics/5%20Equations.ipynb): formatting mathematical equations with LaTeX *(optional)*
+    * [Example Notebook Write-up](1%20Jupyter%20Notebook%20Basic/6%20Notebook%20Writeup%20Example.ipynb)
     
 2. [Basics of Python](2%20Python%20Basics)
     * **[Quick Start Guide: Python](2%20Python%20Basics/0%20Quick%20Start%20Guide%20-%20Python.ipynb)**
