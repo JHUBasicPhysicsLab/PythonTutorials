@@ -14,7 +14,7 @@ If you're not familiar with a subject, we encourage you to start by reading the 
     * [Cell Formatting](1%20Jupyter%20Notebook%20Basics/3%20Cell%20Formatting.ipynb): writing and formatting text in markdown cells
     * [Images in Jupyter](1%20Jupyter%20Notebook%20Basics/4%20Images%20in%20Jupyter.ipynb): inserting an image in a markdown cell
     * [Equations](1%20Jupyter%20Notebook%20Basics/5%20Equations.ipynb): formatting mathematical equations with LaTeX *(optional)*
-    * [Example Notebook Write-up](1%20Jupyter%20Notebook%20Basic/6%20Notebook%20Writeup%20Example.ipynb)
+    * [Notebook Example](1%20Jupyter%20Notebook%20Basics/6%20Notebook%20Writeup%20Example.ipynb): an example of a lab notebook for an experiment we did
     
 2. [Basics of Python](2%20Python%20Basics)
     * **[Quick Start Guide: Python](2%20Python%20Basics/0%20Quick%20Start%20Guide%20-%20Python.ipynb)**
@@ -39,6 +39,9 @@ If you're not familiar with a subject, we encourage you to start by reading the 
    * [Formatting Guide](4%20Plotting/3%20Formatting%20Guide.ipynb): changing the look of the plot (colors, line style, and more!)
    * [Legends, Labels, Annotations](4%20Plotting/4%20Legends%2C%20Labels%2C%20Annotations.ipynb): adding text to the plots
    * [Best Fit Plot](4%20Plotting/5%20Best%20Fit%20Plot.ipynb): adding line of best fit to a plot with raw data
+   * [Histogram Guide](4%20Plotting/6%20Histograms.ipynb)
+   * [Comparison Plot](4%20Plotting/7%20Comparison%20Plot.ipynb): comparing whether two values fall within each other's error bars 
+   * [Contour Plot](4%20Plotting/8%20Contour%20Plot.ipynb)
    
 5. Data Analysis: [Fitting a Model](5%20Curve%20Fitting) to raw data
    * **[Quick Start Guide: Curve Fitting](5%20Curve%20Fitting/0%20Quick%20Start%20Guide%20-%20Model%20Fitting.ipynb)**
@@ -47,6 +50,11 @@ If you're not familiar with a subject, we encourage you to start by reading the 
    * [Absolute Sigma](5%20Curve%20Fitting/3%20Absolute%20Sigma.ipynb): effect of setting `absolute_sigma` wrong in `curve_fit`
    * [X-uncertainties](5%20Curve%20Fitting/4%20X-uncertainties.ipynb): accounting for both x- and y-uncertainties in model fitting
 
+6. [SciPy & Statistics](6%20SciPy%20%26%20Statistics)
+   * [Simple Comparison](6%20SciPy%20%26%20Statistics/1%20Simple%20Comparison.ipynb): how to compare if two values are "similar" quantitatively - simple method
+   * [Significance Levels & Normal distribution](6%20SciPy%20%26%20Statistics/2%20Significance%20Levels%20%26%20Normal%20distribution.ipynb): what do error bars mean? How to **really** compare numbers? What is **similar enough**?
+   * [Unbiased STDEV](6%20SciPy%20%26%20Statistics/3%20Unbiased%20STDEV.ipynb): difference between biased and unbiased standard deviation for the curious
+  
 ### That's it!
 We hope we all have fun, and as always, ask us any questions! 
 We would love any feedback on these tutorials, and we will do our best to add any additional examples that may help!
